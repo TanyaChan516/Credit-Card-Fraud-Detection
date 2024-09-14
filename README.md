@@ -1,6 +1,4 @@
 ## Credit Card Fraud Detection
-You can download the csv files from the project folder on Canvas.  <br>
-
 #### Context
 Credit card companies aim to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
