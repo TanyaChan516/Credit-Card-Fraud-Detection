@@ -27,6 +27,7 @@ Demension of the transformed data has been reduced to 2D to find that it is diff
 ### Module 4: Classification
 Load `creditcard_test.csv` and use it as the test dataset to evaluate the classification models and compare their performance using 5-fold cross-validation.
 
+### Summary
 4 models are conducted to compute the overall accuracies, 
 - LogisticRegression and LinearDiscriminantAnalysis return the highest accuracy > 90%
 - QuadraticDiscriminantAnalysis > 80%
