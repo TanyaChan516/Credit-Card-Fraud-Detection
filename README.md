@@ -15,6 +15,7 @@ The dataset was explored solely, and by their class in terms of basic statistic,
 
 ### Module 2: Data Visualization
 Explore and visualize the distributions of variables in the Fraud group and in the Normal group.
+![image](https://github.com/user-attachments/assets/5cd89491-9276-4242-b52b-35f918f8fea7)
 
 Correlation and connection between V1 to V28 with Class are studied with heatmap and subplots. V14 and V17 are found to be negatively related to Class while V2 and V11 are positively related. The distributions of V14 and V17 in Valid is very stable within -2.5 to 2.5 for V14 and V17 and within -3.0 to 3.0 for V2 and V11. While most data besides these range are considered to be Fraud.
 
